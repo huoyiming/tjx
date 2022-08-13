@@ -7,3 +7,8 @@
 * [纸上得来终觉浅，绝知此事要躬行](group-1/page-1.md)
 * [躬自厚而薄责于人，则远怨矣](jing-dian-ji/gong-zi-hou-er-bao-ze-yu-ren-ze-yuan-yuan-yi.md)
 * [天作孽，犹可违；自作孽，不可活](jing-dian-ji/tian-zuo-nie-you-ke-wei-zi-zuo-nie-bu-ke-huo.md)
+* [犬守夜，鸡司晨，苟不学，曷为人](jing-dian-ji/quan-shou-ye-ji-si-chen-gou-bu-xue-he-wei-ren.md)
+* [物有本末，事有终始，知所先后，则近道矣](jing-dian-ji/wu-you-ben-mo-shi-you-zhong-shi-zhi-suo-xian-hou-ze-jin-dao-yi.md)
+* [化而裁之谓之变,推而行之谓之通](jing-dian-ji/hua-er-cai-zhi-wei-zhi-bian-tui-er-hang-zhi-wei-zhi-tong.md)
+* [为学日益，为道日损](jing-dian-ji/wei-xue-ri-yi-wei-dao-ri-sun.md)
+* [蜀道难，难于上青天](jing-dian-ji/shu-dao-nan-nan-yu-shang-qing-tian.md)
