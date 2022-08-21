@@ -12,3 +12,4 @@
 * [化而裁之谓之变,推而行之谓之通](jing-dian-ji/hua-er-cai-zhi-wei-zhi-bian-tui-er-hang-zhi-wei-zhi-tong.md)
 * [为学日益，为道日损](jing-dian-ji/wei-xue-ri-yi-wei-dao-ri-sun.md)
 * [蜀道难，难于上青天](jing-dian-ji/shu-dao-nan-nan-yu-shang-qing-tian.md)
+* [无欲速，无见小利，欲速则不达，见小利则大事不成](jing-dian-ji/wu-yu-su-wu-jian-xiao-li-yu-su-ze-bu-da-jian-xiao-li-ze-da-shi-bu-cheng.md)
