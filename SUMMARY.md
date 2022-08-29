@@ -2,6 +2,10 @@
 
 * [👋 欢迎](README.md)
 
+## ✍ 家祥原创 <a href="#original" id="original"></a>
+
+* [生命教育在班主任工作中的渗透](original/sheng-ming-jiao-yu-zai-ban-zhu-ren-gong-zuo-zhong-de-shen-tou.md)
+
 ## 📖 经典集
 
 * [纸上得来终觉浅，绝知此事要躬行](jing-dian-ji/zhi-shang-de-lai-zhong-jue-qian-jue-zhi-ci-shi-yao-gong-hang.md)
