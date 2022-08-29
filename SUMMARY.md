@@ -13,3 +13,4 @@
 * [为学日益，为道日损](jing-dian-ji/wei-xue-ri-yi-wei-dao-ri-sun.md)
 * [蜀道难，难于上青天](jing-dian-ji/shu-dao-nan-nan-yu-shang-qing-tian.md)
 * [无欲速，无见小利，欲速则不达，见小利则大事不成](jing-dian-ji/wu-yu-su-wu-jian-xiao-li-yu-su-ze-bu-da-jian-xiao-li-ze-da-shi-bu-cheng.md)
+* [朽木不可雕也，粪土之墙不可杇也](jing-dian-ji/xiu-mu-bu-ke-diao-ye-fen-tu-zhi-qiang-bu-ke-wu-ye.md)
