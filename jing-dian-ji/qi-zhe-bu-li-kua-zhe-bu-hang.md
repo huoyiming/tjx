@@ -14,6 +14,6 @@ description: 出自《道德经》
 
 ### 珍贵影像
 
-<video id="video" controls="" preload="auto" poster="封面">
-      <source id="珍贵影像" src="https://drive.huoyiming.cf/api/v3/file/source/3848/qzbl.mp4?sign=J1IVz_Pr8j4p6yPqZfgdNkJl0yInRqPIG40UXoAkuFU%3D%3A0" type="video/mp4">
-</videos>
+{% embed url="https://drive.huoyiming.cf/api/v3/file/source/3848/qzbl.mp4?sign=J1IVz_Pr8j4p6yPqZfgdNkJl0yInRqPIG40UXoAkuFU=:0" %}
+珍贵影像
+{% endembed %}
