@@ -27,3 +27,4 @@
 * [士不可以不弘毅，任重而道远](jing-dian-ji/shi-bu-ke-yi-bu-hong-yi-ren-zhong-er-dao-yuan.md)
 * [企者不立，跨者不行······](jing-dian-ji/qi-zhe-bu-li-kua-zhe-bu-hang.md)
 * [懒婆娘的裹脚布,又臭又长](jing-dian-ji/lan-po-niang-de-guo-jiao-bu-you-chou-you-chang.md)
+* [是是非非谓之知，非是是非谓之愚](jing-dian-ji/shi-shi-fei-fei-wei-zhi-zhi-fei-shi-shi-fei-wei-zhi-yu.md)
