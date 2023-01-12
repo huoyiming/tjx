@@ -28,3 +28,12 @@
 * [企者不立，跨者不行······](jing-dian-ji/qi-zhe-bu-li-kua-zhe-bu-hang.md)
 * [懒婆娘的裹脚布,又臭又长](jing-dian-ji/lan-po-niang-de-guo-jiao-bu-you-chou-you-chang.md)
 * [是是非非谓之知，非是是非谓之愚](jing-dian-ji/shi-shi-fei-fei-wei-zhi-zhi-fei-shi-shi-fei-wei-zhi-yu.md)
+
+## 👍 谭家精选
+
+* [《成才之路•衡中学案 化学人教版》](tan-jia-jing-xuan/cheng-cai-zhi-lu-heng-zhong-xue-an-hua-xue-ren-jiao-ban.md)
+
+***
+
+* [《基础有机化学》](ji-chu-you-ji-hua-xue.md)
+* [邢其毅](xing-qi-yi.md)
