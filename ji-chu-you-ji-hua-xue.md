@@ -4,4 +4,4 @@ description: 邢其毅、裴伟伟、徐瑞秋、裴坚 著  北京大学出版�
 
 # 《基础有机化学》
 
-![](<.gitbook/assets/image (1).png>)
+![](.gitbook/assets/image.png)
