@@ -6,7 +6,7 @@ description: 中国科学院院士、有机化学家
 
 &#x20;    &#x20;
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 邢其毅（1911年11月24日—2002年11月4日），出生于[天津市](https://baike.baidu.com/item/%E5%A4%A9%E6%B4%A5%E5%B8%82/213824?fromModule=lemma\_inlink)，籍贯贵州贵阳，有机化学家、[教育家](https://baike.baidu.com/item/%E6%95%99%E8%82%B2%E5%AE%B6/10341583?fromModule=lemma\_inlink)，[中国科学院学部委员](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E5%AD%A6%E9%83%A8%E5%A7%94%E5%91%98/10229951?fromModule=lemma\_inlink)，[北京大学化学与分子工程学院](https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%8C%96%E5%AD%A6%E4%B8%8E%E5%88%86%E5%AD%90%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2/3076042?fromModule=lemma\_inlink)教授、有机化学专业博士生导师。
 
