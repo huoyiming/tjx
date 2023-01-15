@@ -34,3 +34,8 @@
 * [《成才之路•衡中学案 化学人教版》](tan-jia-jing-xuan/cheng-cai-zhi-lu-heng-zhong-xue-an-hua-xue-ren-jiao-ban.md)
 * [《基础有机化学》](tan-jia-jing-xuan/ji-chu-you-ji-hua-xue.md)
 * [邢其毅](tan-jia-jing-xuan/xing-qi-yi.md)
+
+## 🎓 得意门生 <a href="#excellent-stu" id="excellent-stu"></a>
+
+* [🐶 狗宝](excellent-stu/doggy.md)
+* [🔥 开哥](excellent-stu/kai-ge.md)
