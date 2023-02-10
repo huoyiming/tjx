@@ -28,6 +28,7 @@
 * [企者不立，跨者不行······](jing-dian-ji/qi-zhe-bu-li-kua-zhe-bu-hang.md)
 * [懒婆娘的裹脚布,又臭又长](jing-dian-ji/lan-po-niang-de-guo-jiao-bu-you-chou-you-chang.md)
 * [是是非非谓之知，非是是非谓之愚](jing-dian-ji/shi-shi-fei-fei-wei-zhi-zhi-fei-shi-shi-fei-wei-zhi-yu.md)
+* [不知来时路,不可致远途](jing-dian-ji/bu-zhi-lai-shi-lu-bu-ke-zhi-yuan-tu.md)
 
 ## 👍 谭家精选
 
