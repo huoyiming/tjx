@@ -30,11 +30,13 @@
 * [是是非非谓之知，非是是非谓之愚](jing-dian-ji/shi-shi-fei-fei-wei-zhi-zhi-fei-shi-shi-fei-wei-zhi-yu.md)
 * [不知来时路,不可致远途](jing-dian-ji/bu-zhi-lai-shi-lu-bu-ke-zhi-yuan-tu.md)
 * [懒牛懒马屎尿多](jing-dian-ji/lan-niu-lan-ma-shi-niao-duo.md)
+* [易穷则变，变则通，通则久](jing-dian-ji/yi-qiong-ze-bian-bian-ze-tong-tong-ze-jiu.md)
 
 ## 👍 谭家精选
 
 * [《成才之路•衡中学案 化学人教版》](tan-jia-jing-xuan/cheng-cai-zhi-lu-heng-zhong-xue-an-hua-xue-ren-jiao-ban.md)
 * [《基础有机化学》](tan-jia-jing-xuan/ji-chu-you-ji-hua-xue.md)
+* [《物质结构》](tan-jia-jing-xuan/wu-zhi-jie-gou.md)
 * [邢其毅](tan-jia-jing-xuan/xing-qi-yi.md)
 
 ## 🎓 得意门生 <a href="#excellent-stu" id="excellent-stu"></a>
