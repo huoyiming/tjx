@@ -31,6 +31,8 @@
 * [不知来时路,不可致远途](jing-dian-ji/bu-zhi-lai-shi-lu-bu-ke-zhi-yuan-tu.md)
 * [懒牛懒马屎尿多](jing-dian-ji/lan-niu-lan-ma-shi-niao-duo.md)
 * [易穷则变，变则通，通则久](jing-dian-ji/yi-qiong-ze-bian-bian-ze-tong-tong-ze-jiu.md)
+* [自天佑之，吉无不利](jing-dian-ji/zi-tian-you-zhi-ji-wu-bu-li.md)
+* [天行健，君子以自强不息；地势坤，君子以厚德载物](jing-dian-ji/tian-hang-jian-jun-zi-yi-zi-qiang-bu-xi-di-shi-kun-jun-zi-yi-hou-de-zai-wu.md)
 
 ## 👍 谭家精选
 
