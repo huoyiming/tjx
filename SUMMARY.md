@@ -46,3 +46,7 @@
 * [🐶 狗宝](excellent-stu/doggy.md)
 * [🔥 开哥](excellent-stu/kai-ge.md)
 * [🐔 渐入“佳”境](excellent-stu/jian-ru-jia-jing.md)
+
+## 😅 耻辱柱
+
+* [何祚庥](chi-ru-zhu/he-zuo-xiu.md)
