@@ -6,7 +6,7 @@
 
 <figure><img src="../.gitbook/assets/8a124e59a20b4cbd948de22f4776d1a9.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/7df87b7edb654dfba8e4fc6483f2a7c8.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/7df87b7edb654dfba8e4fc6483f2a7c8 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/eb5d8a4b3f0442da9735ca48db5f2a1e.jpg" alt=""><figcaption></figcaption></figure>
 
