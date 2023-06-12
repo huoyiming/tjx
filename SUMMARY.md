@@ -50,6 +50,7 @@
 ## 🧑🏫 最后一课 <a href="#last" id="last"></a>
 
 * [经典](last/jing-dian.md)
+* [八卦](last/ba-gua.md)
 
 ## 🎓 得意门生 <a href="#excellent-stu" id="excellent-stu"></a>
 
