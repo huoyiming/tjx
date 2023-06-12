@@ -5,3 +5,5 @@
 <figure><img src="../.gitbook/assets/c7fe1756013b4d32b0fd00db1860d5d8.jpg" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://drive.dgstu.tk/f/X1Sj/MVI_39567.MP4" %}
+
+{% embed url="https://drive.dgstu.tk/f/JMix/MVI_4063.MP4" %}
